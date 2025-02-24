@@ -1,10 +1,11 @@
-# Rahul Hans
+# Artificial Intelligence
 
-# A first-level heading
+### Education
+Computer Science, PhD
 
+### Experience
+Associate Professor @
+-big impact project 1!
+-big impact project 2!
 
-
-## A second-level heading
-
-
-### A third-level heading                                gggggggggggggg
+### Publications
