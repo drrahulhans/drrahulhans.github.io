@@ -1,5 +1,6 @@
 title: Rahul Hans
-logo: /assets/img/headshot_circle.png
+#logo: /assets/img/headshot_circle.png
+logo: /assets/img/NAme1.png
 description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
