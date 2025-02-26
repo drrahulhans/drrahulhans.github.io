@@ -10,22 +10,22 @@ Hi.. I am Rahul Hans. I have been affiliated with DAV University in Jalandhar, P
 
 ### Journal Publications
 
-<br>1. Health Information Science and Systems</br>	
+<br>1. Health Information Science and Systems	
 <br>Optimized deep k-nearest neighbour’s based diabetic retinopathy diagnosis (ODeep-NN) using retinal images</br>
-<br>Rahul Hans, Sanjeev Kumar Sharma, Uwe Aickelin</br>
-<br>2024|Springer| Impact Factor: 4.7</br>
-<br>https://doi.org/10.1007/s13755-024-00282-x</br>
+<br>Rahul Hans, Sanjeev Kumar Sharma, Uwe Aickelin
+<br>2024|Springer| Impact Factor: 4.7
+<br>https://doi.org/10.1007/s13755-024-00282-x
 
-2.	Scientific Reports
-An augmentation aided concise CNN based architecture for COVID-19 diagnosis in real time
-Balraj Preet Kaur, Harpreet Singh, Rahul Hans, Sanjeev Kumar Sharma, Chetna Kaushal, Md. Mehedi Hassan & Mohd Asif Shah
-2024|Nature Portfolio| Impact Factor: 4.6
-https://doi.org/10.1038/s41598-024-51317-y
+<br>2.	Scientific Reports
+<br>An augmentation aided concise CNN based architecture for COVID-19 diagnosis in real time
+<br>Balraj Preet Kaur, Harpreet Singh, Rahul Hans, Sanjeev Kumar Sharma, Chetna Kaushal, Md. Mehedi Hassan & Mohd Asif Shah
+<br>2024|Nature Portfolio| Impact Factor: 4.6
+<br>https://doi.org/10.1038/s41598-024-51317-y
 
-4.	PLOS ONE	A Genetic algorithm aided hyper parameter optimization based ensemble model for respiratory disease prediction with Explainable AI
-Balraj Preet Kaur,Harpreet Singh,Rahul Hans,Sanjeev Kumar Sharma,Chetna Sharma,Md. Mehedi Hassan
-2024|Plos One
-https://doi.org/10.1371/journal.pone.0308015
+<br>4.	PLOS ONE	A Genetic algorithm aided hyper parameter optimization based ensemble model for respiratory disease prediction with <br>Explainable AI
+<br>Balraj Preet Kaur,Harpreet Singh,Rahul Hans,Sanjeev Kumar Sharma,Chetna Sharma,Md. Mehedi Hassan
+<br>2024|Plos One
+<br>https://doi.org/10.1371/journal.pone.0308015
 
 5.	International Journal of Image and Graphics         
 Hybrid Biogeography-Based Optimization and Genetic Algorithm for Feature Selection in Mammographic Breast Density Classification.
