@@ -10,11 +10,11 @@ Hi.. I am Rahul Hans. I have been affiliated with DAV University in Jalandhar, P
 
 ### Journal Publications
 
-1. Health Information Science and Systems	
-Optimized deep k-nearest neighbour’s based diabetic retinopathy diagnosis (ODeep-NN) using retinal images
-Rahul Hans, Sanjeev Kumar Sharma, Uwe Aickelin
-2024|Springer| Impact Factor: 4.7
-https://doi.org/10.1007/s13755-024-00282-x
+<br>1. Health Information Science and Systems</br>	
+<br>Optimized deep k-nearest neighbour’s based diabetic retinopathy diagnosis (ODeep-NN) using retinal images</br>
+<br>Rahul Hans, Sanjeev Kumar Sharma, Uwe Aickelin</br>
+<br>2024|Springer| Impact Factor: 4.7</br>
+<br>https://doi.org/10.1007/s13755-024-00282-x</br>
 
 2.	Scientific Reports
 An augmentation aided concise CNN based architecture for COVID-19 diagnosis in real time
