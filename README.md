@@ -1,5 +1,4 @@
 
-## _If we knew what it was we were doing, it would not be called research, would it?    -Albert Einstein_
 
 
 ![alt text](https://github.com/drrahulhans/drrahulhans.github.io/blob/main/assets/img/NAme1.png?raw=true)
