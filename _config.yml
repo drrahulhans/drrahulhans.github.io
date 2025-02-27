@@ -2,10 +2,6 @@ title: Rahul Hans
 #logo: /assets/img/headshot_circle.png
 logo: /assets/img/NAme1.png
 description: Dr. Rahul Hans <br> <br> Connet with me: <br>
-<div id="main" role="main"><div class="sidebar sticky"><div itemscope itemtype="http://schema.org/Person"><div class="author__avatar"> 
-<img src="https://nikhilkurian.github.io/images/bio-photo-1.png" class="author__avatar" alt="Nikhil Kurian"></div>
-<div class="author__content"><h3 class="author__name">Nikhil Kurian</h3><p class="author__bio">Researcher, AIML</p></div>
-<div class="author__urls-wrapper"> <button class="btn btn--inverse">Follow</button><ul class="author__urls social-icons"><li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Adelaide, Australia</li><li><a href="mailto:nikhilcherian30@gmail.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li><li><a href="https://www.researchgate.net/profile/Nikhil_Kurian2"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li><li><a href="https://www.linkedin.com/in/nikhil-cherian-kurian-7bba285b"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li><li><a href="https://github.com//nikhilkurian"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li><li><a href="https://scholar.google.com/citations?user=5oEir04AAAAJ&hl=en"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li></ul></div></div></div>
 #show_downloads: true
 theme: jekyll-theme-minimal
 #remote_theme: pages-themes/time-machine@v0.2.0
