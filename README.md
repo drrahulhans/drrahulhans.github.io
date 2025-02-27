@@ -1,7 +1,5 @@
 
 ## _If we knew what it was we were doing, it would not be called research, would it?    -Albert Einstein_
-<div id="main" role="main"><div class="sidebar sticky"><div itemscope itemtype="http://schema.org/Person"><div class="author__avatar"> 
-<div class="author__urls-wrapper"> <button class="btn btn--inverse">Follow</button><ul class="author__urls social-icons"><li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Adelaide, Australia</li><li><a href="mailto:rahulhans@gmail.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li><li><a href="https://www.researchgate.net/"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li><li><a href="https://www.linkedin.com/><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li><li><a href="https://github.com/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li><li><a href="https://scholar.google.com/"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li></ul></div></div></div>
 
   
 ## About Me
@@ -105,6 +103,8 @@ Hi.. I am Rahul Hans. I have been affiliated with DAV University in Jalandhar, P
 
 
 
+<div id="main" role="main"><div class="sidebar sticky"><div itemscope itemtype="http://schema.org/Person"><div class="author__avatar"> 
+<div class="author__urls-wrapper"> <button class="btn btn--inverse">Follow</button><ul class="author__urls social-icons"><li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Adelaide, Australia</li><li><a href="mailto:rahulhans@gmail.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li><li><a href="https://www.researchgate.net/"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li><li><a href="https://www.linkedin.com/><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li><li><a href="https://github.com/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li><li><a href="https://scholar.google.com/"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li></ul></div></div></div>
 
 
 
