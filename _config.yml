@@ -15,11 +15,11 @@
 # This is how Jekyll knows to use this theme.
 remote_theme: tedivm/jekyll-theme-portfolio
 
-title: Rahul Hans
+title: _If we knew what it was we were doing, it would not be called research, would it?    -Albert Einstein_
+
 #author: Your Name
 #email: your-email@domain.com
-description: _If we knew what it was we were doing, it would not be called research, would it?    -Albert Einstein_
-
+description: Rahul Hans 
   
 # Header Links - all optional. If set these create header links.
 homepage: https://drrahulhans.github.io/
