@@ -1,14 +1,38 @@
-title: Rahul Hans
+#title: Rahul Hans
 #logo: /assets/img/headshot_circle.png
-logo: /assets/img/NAme1.png
-description: Dr. Rahul Hans
+#logo: /assets/img/NAme1.png
+#description: Dr. Rahul Hans
 #show_downloads: true
 # if you don't have any of social below, comment the line
 #<a href="https://in.linkedin.com/">View My LinkedIn Profile</a>
 
-remote_theme: tedivm/jekyll-theme-portfolio
+#remote_theme: tedivm/jekyll-theme-portfolio
 
 #theme: jekyll-theme-minimal
 #remote_theme: pages-themes/time-machine@v0.2.0
 #remote_theme: pages-themes/architect@v0.2.0
 
+# This is how Jekyll knows to use this theme.
+remote_theme: tedivm/jekyll-theme-portfolio
+
+
+title: Your awesome title
+author: Your Name
+email: your-email@domain.com
+description: >
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+
+# Header Links - all optional. If set these create header links.
+homepage: https://your.homepage.com
+twitter_username: example
+github_username: example
+linkedin_username: example
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-remote-theme # Lets us test remote themes locally.
