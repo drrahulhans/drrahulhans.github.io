@@ -97,20 +97,12 @@ Hi.. I am Rahul Hans. I have been affiliated with DAV University in Jalandhar, P
 <br>International Conference on Computing, Communications, and Cyber-Security (IC4S-2019) Springer.
 
 <br>6.	**Rahul Hans** and Harjot Kaur
-<br>*__Feature Selection Using Metaheuristic Algorithms: Concept, Applications and Population Based Comparison.*__
+<br>*__Feature Selection Using Metaheuristic Algorithms: Concept, Applications and Population Based Comparison.__*
 <br>International Conference on Computational Performance Evaluation (ComPE-2020).
 
 
 
 
-<div id="main" role="main"><div class="sidebar sticky"><div itemscope itemtype="http://schema.org/Person"><div class="author__avatar"> 
-<div class="author__urls-wrapper"> <button class="btn btn--inverse">Connect With Me</button><ul class="author__urls social-icons">
-
-<li><a href="mailto:rahulhans@gmail.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
-<li><a href="https://www.researchgate.net/profile/Rahul-Hans"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
-<li><a href="https://www.linkedin.com/><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
-<li><a href="https://github.com/"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
-<li><a href="https://scholar.google.com/"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li></ul></div></div></div>
 
 
 
