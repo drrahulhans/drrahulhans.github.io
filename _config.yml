@@ -2,7 +2,12 @@ title: Rahul Hans
 #logo: /assets/img/headshot_circle.png
 logo: /assets/img/NAme1.png
 description: Dr. Rahul Hans
-show_downloads: true
+#show_downloads: true
+# if you don't have any of social below, comment the line
+facebook: myfacebook
+twitter: mytwitter
+linkedin: mylinkedin
+github: mygithub
 
 
 theme: jekyll-theme-minimal
