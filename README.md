@@ -9,8 +9,9 @@ Hi.. I am Rahul Hans. I have been affiliated with DAV University in Jalandhar, P
 <br>
 <br>
 ### Journal Publications
-    1. *__Health Information Science and Systems
-<br>[Optimized deep k-nearest neighbour’s based diabetic retinopathy diagnosis (ODeep-NN) using retinal images](https://link.springer.com/article/10.1007/s13755-024-00282-x)__*
+<br>1. *__Health Information Science and Systems
+<br>[Optimized deep k-nearest neighbour’s based diabetic retinopathy diagnosis (ODeep-NN) using retinal images]__* 
+<br>(https://link.springer.com/article/10.1007/s13755-024-00282-x)
 <br>**Rahul Hans**, Sanjeev Kumar Sharma, Uwe Aickelin
 <br>2024|Springer| Impact Factor: 4.7
 <br>https://doi.org/10.1007/s13755-024-00282-x
@@ -64,7 +65,7 @@ Hi.. I am Rahul Hans. I have been affiliated with DAV University in Jalandhar, P
 <br>
 ### CONFERENCES
 
-    1.	**Rahul Hans** and Navreet Kaur
+<br>1.	**Rahul Hans** and Navreet Kaur
 <br>*__Breast Mass Pattern Classification using Vision Transformers (ViTs) with varied Optimizers.__*
 <br>The International Conference on Healthcare Innovation and Smart Systems (ICHISS 2024)
 <br>2.	Balraj Preet Kaur, Harpreet Singh, **Rahul Hans** & Sanjeev Kumar Sharma
