@@ -6,9 +6,9 @@ description: Dr. Rahul Hans
 # if you don't have any of social below, comment the line
 #<a href="https://in.linkedin.com/">View My LinkedIn Profile</a>
 
-#remote_theme: tedivm/jekyll-theme-portfolio
+remote_theme: tedivm/jekyll-theme-portfolio
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #remote_theme: pages-themes/time-machine@v0.2.0
 #remote_theme: pages-themes/architect@v0.2.0
 
