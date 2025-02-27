@@ -4,11 +4,7 @@ logo: /assets/img/NAme1.png
 description: Dr. Rahul Hans
 #show_downloads: true
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-
+<a href="https://in.linkedin.com/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
 #remote_theme: pages-themes/time-machine@v0.2.0
