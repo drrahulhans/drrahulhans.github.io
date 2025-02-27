@@ -15,8 +15,8 @@
 # This is how Jekyll knows to use this theme.
 remote_theme: tedivm/jekyll-theme-portfolio
 
-
-title: Your awesome title
+logo: /assets/img/NAme1.png
+title: Rahul Hans
 author: Your Name
 email: your-email@domain.com
 description: >
